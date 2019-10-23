@@ -1,3 +1,6 @@
+//Syntax for running in arduino to operate the machine which in return zero the weapon
+
+
 #include<LiquidCrystal_I2C.h>
 #include<Keypad.h>
 
